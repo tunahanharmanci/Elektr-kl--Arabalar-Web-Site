@@ -1,0 +1,54 @@
+/************ CSS Dosyası ************/
+
+/******** Arkaplan Rengi Start ********/
+body {
+    background-color: lightblue;
+  }
+/******** Arkaplan Rengi End *********/
+/******* Metin Yeri Start ********/
+.text-align
+    {text-align: center;}
+
+h1, h2, h3, h4, h5, h6 {text-align: center;}
+
+
+/******* Metin Yeri End *********/
+
+/***** Li Etiketi Start *****/
+li {
+    text-align: center;
+    list-style-position: inside;
+    color: black;
+  }
+
+/***** Li Etiketi End *****/
+
+/****** Metin Rengi Start ******/
+
+h1 { color: red;}
+
+h2 {color: purple;}
+
+h3 {color:darkblue;}
+
+p {color: black;}
+/****** Metin Rengi End ******/
+
+/********* Metin Boyutu Start *******/
+
+h1 {font-size: 35px;}
+h2 {font-size: 30px;}
+h3 {font-size: 25px;}
+
+li {font-size: 20px;}
+p {font-size: 18px;}
+
+/*********** Metin Boyutu End  **********/
+
+/**********  Yazı Fontu Start  *********/
+
+body{font-family: 'Open Sans', sans-serif;}
+
+head{font-family: 'Open Sans', sans-serif;}
+
+/*********** Yazı Fontu End *************/
